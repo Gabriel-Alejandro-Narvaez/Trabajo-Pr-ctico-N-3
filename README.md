@@ -1,5 +1,5 @@
 # Trabajo-Practico-N-3
-El trabajo práctico N°3 de tecnología de la información
+El trabajo práctico N°3 de la matería "tecnología de la información"
 
 Apellido: Narvaez
 
